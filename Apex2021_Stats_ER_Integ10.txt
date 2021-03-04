@@ -1,0 +1,749 @@
+Intactness and Integrity Stats ER
+
+##################
+### Intactness ###
+##################
+
+Number of polygons: 
+828
+Number of polygons with data: 
+798
+Number of NA polygons (#): 
+30
+Area (ha) of footprint for intactness mapping: 
+13213346043
+
+
+## Above half-Earth ##
+Number of polygons over half Earth: 
+246
+Fraction of polygons over half Earth: 
+0.308
+Area of intact land (ha): 
+6551704454
+Fraction land area intact: 
+0.496
+
+
+## Above half-Earth (surplus) ##
+Area (ha) of polygons over half Earth: 
+2388429873
+Fraction land area of polygons over half Earth: 
+0.181
+
+
+## Below half-earth ##
+Number of polygons below half-Earth 
+552
+Fraction of polygons below half-Earth: 
+0.692
+Area of non-intact land (ha): 
+6661641589
+Fraction land area non-intact: 
+0.504
+
+
+## Below half-Earth (deficit) ##
+Area (ha) of polygons below half Earth: 
+2443398441
+Fraction land area of polygons below half Earth: 
+0.185
+
+
+## Threatened (Intactness < 10%) ##
+Number of threatened polygons by intactness (#): 
+371
+Percentage of threatened polygons by intactness (#): 
+0.465
+Area of threatened polygons by intactness (#): 
+3613249070
+Fraction land area of theatened polygons by intactness: 
+0.273
+
+
+## Extinction (Intactness < 1%) ##
+Number of extinct polygons by intactness (#): 
+206
+Percentage of extinct polygons by intactness (#): 
+0.258
+Area of extinct polygons by intactness (#): 
+1864970242
+Fraction land area of extinct polygons by intactness: 
+0.141
+
+
+
+##################
+### Integrity ####
+##################
+
+Number of polygons: 
+828
+Number of polygons with data: 
+821
+Number of NA polygons (#): 
+7
+Area (ha) of footprint for integrity mapping: 
+13215030813
+Area of natural lands (ha): 
+10514850574
+Fraction of natural lands (ha): 
+0.8
+
+
+## Above integrity boundary ##
+Number of polygons above integrity target: 
+91
+Fraction of polygons above integrity target: 
+0.111
+Area of land above the integrity boundary (ha): 
+12002290489
+Fraction land area above the integrity boundary: 
+0.908
+Fraction land area with Integrity excluding Intact lands: 
+0.818
+Area of land without Integrity: 
+1212740323.844
+
+
+## Below integrity boundary ##
+Number of polygons below the integrity target: 
+730
+Fraction of polygons below the integrity target: 
+0.889
+Area of land below the integrity target (ha): 
+12294564639
+Fraction land area below the integrity target: 
+0.93
+
+Area of land below the integrity boundary (ha): 
+1212740324
+Fraction land area below integrity: 
+0.092
+Fraction land area without Integrity excluding Intact lands: 
+0.182
+
+
+## Below integrity boundary (deficit) ##
+Area (ha) of land with integrity deficit: 
+1212740324
+Fraction land area with integrity deficit: 
+0.092
+
+
+
+## Threatened (Integrity < 10%) ##
+Number of threatened polygons by integrity (#): 
+3
+Percentage of threatened polygons (#) by integrity: 
+0.004
+Area of threatened polygons (#): 
+27397866
+Fraction land area of threatened polygons by integrity: 
+0.002
+
+
+
+
+## Extinct (Integrity < 1%) ##
+Number of Extinct polygons by integrity (#): 
+0
+Percentage of Extinct polygons (#) by integrity: 
+0
+Area of Extinct polygons (#): 
+0
+Fraction land area of extinct polygons by integrity: 
+0
+
+
+List of Threatened polygons (Intactness <= 10%): 
+Admiralty Islands lowland rain forests
+Aegean and Western Turkey sclerophyllous and mixed forests
+Afghan Mountains semi-desert
+Al-Hajar foothill xeric woodlands and shrublands
+Al-Hajar montane woodlands and shrublands
+Alai-Western Tian Shan steppe
+Albany thickets
+Albertine Rift montane forests
+Alps conifer and mixed forests
+Altai steppe and semi-desert
+Alto Paraná Atlantic forests
+Anatolian conifer and deciduous mixed forests
+Andaman Islands rain forests
+Angolan montane forest-grassland
+Angolan scarp savanna and woodlands
+Appalachian Piedmont forests
+Appenine deciduous montane forests
+Apure-Villavicencio dry forests
+Araucaria moist forests
+Araya and Paria xeric scrub
+Atlantic Coast restingas
+Atlantic coastal pine barrens
+European Atlantic mixed forests
+Azerbaijan shrub desert and steppe
+Azores temperate mixed forests
+Badghyz and Karabil semi-desert
+Bahia coastal forests
+Bahia interior forests
+Bajío dry forests
+Balkan mixed forests
+Balsas dry forests
+Baltic mixed forests
+Bermuda subtropical conifer forests
+Bohai Sea saline meadow
+Bolivian montane dry forests
+Brahmaputra Valley semi-evergreen forests
+Caatinga
+Caatinga Enclaves moist forests
+California Central Valley grasslands
+Cameroon Highlands forests
+Canadian Aspen forests and parklands
+Canary Islands dry woodlands and forests
+Cantabrian mixed forests
+Canterbury-Otago tussock grasslands
+Cape Verde Islands dry forests
+Caribbean shrublands
+Carolines tropical moist forests
+Carpathian montane forests
+Caspian Hyrcanian mixed forests
+Catatumbo moist forests
+Cauca Valley dry forests
+Cauca Valley montane forests
+Caucasus mixed forests
+Cayos Miskitos-San Andrés and Providencia moist forests
+Celtic broadleaf forests
+Central Afghan Mountains xeric woodlands
+Central African mangroves
+Central American dry forests
+Central American montane forests
+Central American pine-oak forests
+Central Anatolian steppe
+Central Anatolian steppe and woodlands
+Central-Southern US mixed grasslands
+Central Andean wet puna
+Central Asian southern desert
+Central bushveld
+Central China Loess Plateau mixed forests
+Central Deccan Plateau dry deciduous forests
+Central European mixed forests
+Central US forest-grasslands transition
+Central Indochina dry forests
+Central Korean deciduous forests
+Central Mexican matorral
+Central Polynesian tropical moist forests
+Central Tallgrass prairie
+Changbai Mountains mixed forests
+Changjiang Plain evergreen forests
+Chao Phraya freshwater swamp forests
+Chao Phraya lowland moist deciduous forests
+Chhota-Nagpur dry deciduous forests
+Chiapas Depression dry forests
+Chiapas montane forests
+Christmas and Cocos Islands tropical forests
+Comoros forests
+Cook Islands tropical moist forests
+Cordillera de Merida páramo
+Cordillera La Costa montane forests
+Costa Rican seasonal moist forests
+Crete Mediterranean forests
+Crimean Submediterranean forest complex
+Cross-Niger transition forests
+Cross-Sanaga-Bioko coastal forests
+Cross-Timbers savanna-woodland
+Cuban cactus scrub
+Cuban dry forests
+Cuban moist forests
+Cuban pine forests
+Cyprus Mediterranean forests
+Daba Mountains evergreen forests
+Deccan thorn scrub forests
+Dinaric Mountains mixed forests
+Drakensberg Escarpment savanna and thicket
+Drakensberg grasslands
+East Afghan montane conifer forests
+East African halophytics
+East African mangroves
+East Central Texas forests
+East Deccan dry-evergreen forests
+East European forest steppe
+Eastern Anatolian deciduous forests
+Eastern Anatolian montane steppe
+Eastern Great Lakes lowland forests
+Eastern Guinean forests
+East Deccan moist deciduous forests
+Eastern Java-Bali montane rain forests
+Eastern Java-Bali rain forests
+Eastern Mediterranean conifer-broadleaf forests
+Ecuadorian dry forests
+Elburz Range forest steppe
+English Lowlands beech forests
+Enriquillo wetlands
+Espinal
+Ethiopian montane grasslands and woodlands
+Ethiopian montane moorlands
+Euxine-Colchic broadleaf forests
+Faroe Islands boreal grasslands
+Fiji tropical dry forests
+Flint Hills tallgrass prairie
+Ghorat-Hazarajat alpine meadow
+Gissaro-Alai open woodlands
+Godavari-Krishna mangroves
+Greater Negros-Panay rain forests
+Guajira-Barranquilla xeric scrub
+Guayaquil flooded grasslands
+Guinean forest-savanna
+Guinean mangroves
+Guinean montane forests
+Guizhou Plateau broadleaf and mixed forests
+Hainan Island monsoon rain forests
+Hawai'i tropical low shrublands
+Highveld grasslands
+Himalayan subtropical broadleaf forests
+Himalayan subtropical pine forests
+Hispaniolan dry forests
+Hispaniolan moist forests
+Hispaniolan pine forests
+Honshu alpine conifer forests
+Horn of Africa xeric bushlands
+Huang He Plain mixed forests
+Humid Chaco
+Humid Pampas
+Iberian sclerophyllous and semi-deciduous forests
+Illyrian deciduous forests
+Indochina mangroves
+Indus River Delta-Arabian Sea mangroves
+Indus Valley desert
+Inner Niger Delta flooded savanna
+Interior Plateau US Hardwood Forests
+Irrawaddy dry forests
+Irrawaddy freshwater swamp forests
+Irrawaddy moist deciduous forests
+Isthmian-Pacific moist forests
+Italian sclerophyllous and semi-deciduous forests
+Itigi-Sumbu thicket
+Jalisco dry forests
+Jamaican dry forests
+Jamaican moist forests
+Jian Nan subtropical evergreen forests
+Jos Plateau forest-grassland
+Kazakh forest steppe
+Khathiar-Gir dry deciduous forests
+Knysna-Amatole montane forests
+Kopet Dag semi-desert
+Kopet Dag woodlands and forest steppe
+Kwazulu Natal-Cape coastal forests
+La Costa xeric shrublands
+Lake Chad flooded savanna
+Lara-Falcón dry forests
+Leeward Islands moist forests
+Lesser Sundas deciduous forests
+Lower Gangetic Plains moist deciduous forests
+Luzon rain forests
+Luzon tropical pine forests
+Madagascar dry deciduous forests
+Madagascar ericoid thickets
+Madagascar humid forests
+Madagascar mangroves
+Madagascar spiny thickets
+Madagascar subhumid forests
+Madagascar succulent woodlands
+Madeira evergreen forests
+Magdalena-Urabá moist forests
+Magdalena Valley dry forests
+Magdalena Valley montane forests
+Malabar Coast moist forests
+Maldives-Lakshadweep-Chagos Archipelago tropical moist forests
+Mandara Plateau woodlands
+Maputaland coastal forests and woodlands
+Maracaibo dry forests
+Maranhão Babaçu forests
+Marianas tropical dry forests
+Mascarene forests
+Mediterranean conifer and mixed forests
+Mediterranean dry woodlands and steppe
+Mediterranean High Atlas juniper steppe
+Mediterranean woodlands and forests
+Meghalaya subtropical forests
+Mindanao-Eastern Visayas rain forests
+Mindanao montane rain forests
+Mindoro rain forests
+Motagua Valley thornscrub
+Mount Cameroon and Bioko montane forests
+Mulanje Montane forest-grassland
+Myanmar Coast mangroves
+Myanmar coastal rain forests
+Nansei Islands subtropical evergreen forests
+Naracoorte woodlands
+Narmada Valley dry deciduous forests
+Nebraska Sand Hills mixed grasslands
+Nenjiang River grassland
+Niger Delta swamp forests
+Nigerian lowland forests
+Nihonkai evergreen forests
+Nihonkai montane deciduous forests
+Somali montane xeric woodlands
+North Western Ghats moist deciduous forests
+North Western Ghats montane rain forests
+Northeast China Plain deciduous forests
+Northeast India-Myanmar pine forests
+Northeast Spain and Southern France Mediterranean forests
+Northeast US Coastal forests
+Northern Anatolian conifer and deciduous forests
+Northern Andean páramo
+North Deccan dry deciduous forests
+Northern Indochina subtropical forests
+Northern Khorat Plateau moist deciduous forests
+Northern Shortgrass prairie
+Northern Swahili coastal forests
+Northern Tallgrass prairie
+Northern Thailand-Laos moist deciduous forests
+Northern Vietnam lowland rain forests
+Northland temperate kauri forests
+Northwest Iberian montane forests
+Aravalli west thorn scrub forests
+Nyanga-Chimanimani Montane forest-grassland
+Ordos Plateau steppe
+Orissa semi-evergreen forests
+Palau tropical moist forests
+Palawan rain forests
+Panamanian dry forests
+Pannonian mixed forests
+Pantanos de Centla
+Paraguaná xeric scrub
+Paraná flooded savanna
+Paropamisus xeric woodlands
+Patía valley dry forests
+Peninsular Malaysian peat swamp forests
+Pernambuco coastal forests
+Pernambuco interior forests
+Pindus Mountains mixed forests
+Po Basin mixed forests
+Pontic steppe
+Puerto Rican dry forests
+Puerto Rican moist forests
+Qilian Mountains conifer forests
+Qin Ling Mountains deciduous forests
+Red River freshwater swamp forests
+Rodope montane mixed forests
+Rwenzori-Virunga montane moorlands
+San Lucan xeric scrub
+Santa Marta montane forests
+Santa Marta páramo
+São Tomé, Príncipe, and Annobón forests
+Serengeti volcanic grasslands
+Sichuan Basin evergreen broadleaf forests
+Sierra de la Laguna dry forests
+Sierra de la Laguna pine-oak forests
+Sierra de los Tuxtlas
+Sierra Madre de Chiapas moist forests
+Sinú Valley dry forests
+Society Islands tropical moist forests
+Socotra Island xeric shrublands
+Somali Acacia-Commiphora bushlands and thickets
+South Apennine mixed montane forests
+South China-Vietnam subtropical evergreen forests
+South Deccan Plateau dry deciduous forests
+South Taiwan monsoon rain forests
+South Western Ghats moist deciduous forests
+South Western Ghats montane rain forests
+Southeast US mixed woodlands and savannas
+Southeast Iberian shrubs and woodlands
+Southern Acacia-Commiphora bushlands and thickets
+Southern Africa mangroves
+Southern Anatolian montane conifer and deciduous forests
+Southern Cone Mesopotamian savanna
+Southern Great Lakes forests
+Southern Korea evergreen forests
+Southern Mesoamerican Pacific mangroves
+Southern Pacific dry forests
+Southern Rift Montane forest-grassland
+Southern Swahili coastal forests and woodlands
+Southern Vietnam lowland dry forests
+Southwest Arabian Escarpment shrublands and woodlands
+Southwest Arabian highland xeric scrub
+Southwest Iberian Mediterranean sclerophyllous and mixed forests
+Sri Lanka dry-zone dry evergreen forests
+Sri Lanka lowland rain forests
+Sri Lanka montane rain forests
+Sudd flooded grasslands
+Sulaiman Range alpine meadows
+Sulu Archipelago rain forests
+Sumatran freshwater swamp forests
+Sumatran lowland rain forests
+Sumatran peat swamp forests
+Sumba deciduous forests
+Sunda Shelf mangroves
+Sundarbans freshwater swamp forests
+Sundarbans mangroves
+Syrian xeric grasslands and shrublands
+Taiheiyo evergreen forests
+Taiheiyo montane deciduous forests
+Tamaulipan matorral
+Tamaulipan mezquital
+Tehuacán Valley matorral
+Terai-Duar savanna and grasslands
+Texas blackland prairies
+Thar desert
+Tian Shan foothill arid steppe
+Tigris-Euphrates alluvial salt marsh
+Timor and Wetar deciduous forests
+Tongan tropical moist forests
+Tonle Sap-Mekong peat swamp forests
+Tonle Sap freshwater swamp forests
+Trans-Mexican Volcanic Belt pine-oak forests
+Trinidad and Tobago moist forest
+Tubuai tropical moist forests
+Tumbes-Piura dry forests
+Tyrrhenian-Adriatic sclerophyllous and mixed forests
+Upper Gangetic Plains moist deciduous forests
+Upper Midwest US forest-savanna transition
+Uruguayan savanna
+Venezuelan Andes montane forests
+Veracruz dry forests
+Veracruz moist forests
+Veracruz montane forests
+West Sudanian savanna
+Western Ecuador moist forests
+Western European broadleaf forests
+Western Gulf coastal grasslands
+Western Himalayan broadleaf forests
+Western Himalayan subalpine conifer forests
+Western Java montane rain forests
+Western Java rain forests
+Willamette Valley oak savanna
+Windward Islands moist forests
+Yap tropical dry forests
+Yellow Sea saline meadow
+Yunnan Plateau subtropical evergreen forests
+Zagros Mountains forest steppe
+Zambezian-Limpopo mixed woodlands
+Zambezian coastal flooded savanna
+Victoria Basin forest-savanna
+Southwest Arabian coastal xeric shrublands
+Southwest Arabian montane woodlands and grasslands
+Trinidad and Tobago dry forest
+Lesser Antillean dry forests
+North Atlantic moist mixed forests
+Sulawesi lowland rain forests
+East African montane forests
+Eastern Arc forests
+Kinabalu montane alpine meadows
+
+
+List of Extinct polygons (Intactness <= 1%): 
+Admiralty Islands lowland rain forests
+Aegean and Western Turkey sclerophyllous and mixed forests
+Alai-Western Tian Shan steppe
+Anatolian conifer and deciduous mixed forests
+Andaman Islands rain forests
+Angolan montane forest-grassland
+Araya and Paria xeric scrub
+European Atlantic mixed forests
+Azerbaijan shrub desert and steppe
+Badghyz and Karabil semi-desert
+Bajío dry forests
+Baltic mixed forests
+Bermuda subtropical conifer forests
+Bohai Sea saline meadow
+Brahmaputra Valley semi-evergreen forests
+Caatinga Enclaves moist forests
+California Central Valley grasslands
+Canary Islands dry woodlands and forests
+Caribbean shrublands
+Carolines tropical moist forests
+Caspian Hyrcanian mixed forests
+Cauca Valley dry forests
+Cauca Valley montane forests
+Cayos Miskitos-San Andrés and Providencia moist forests
+Celtic broadleaf forests
+Central American dry forests
+Central Anatolian steppe
+Central Anatolian steppe and woodlands
+Central-Southern US mixed grasslands
+Central China Loess Plateau mixed forests
+Central Deccan Plateau dry deciduous forests
+Central European mixed forests
+Central Korean deciduous forests
+Central Mexican matorral
+Central Tallgrass prairie
+Changjiang Plain evergreen forests
+Chao Phraya freshwater swamp forests
+Chhota-Nagpur dry deciduous forests
+Chiapas Depression dry forests
+Christmas and Cocos Islands tropical forests
+Comoros forests
+Cook Islands tropical moist forests
+Cordillera de Merida páramo
+Cordillera La Costa montane forests
+Costa Rican seasonal moist forests
+Crete Mediterranean forests
+Crimean Submediterranean forest complex
+Cross-Niger transition forests
+Cross-Timbers savanna-woodland
+Cuban cactus scrub
+Cuban dry forests
+Cuban moist forests
+Cuban pine forests
+Daba Mountains evergreen forests
+Deccan thorn scrub forests
+Drakensberg Escarpment savanna and thicket
+Drakensberg grasslands
+East African mangroves
+East Central Texas forests
+East Deccan dry-evergreen forests
+Eastern Anatolian deciduous forests
+Eastern Anatolian montane steppe
+Eastern Guinean forests
+East Deccan moist deciduous forests
+Eastern Java-Bali montane rain forests
+Eastern Java-Bali rain forests
+Ecuadorian dry forests
+English Lowlands beech forests
+Espinal
+Ethiopian montane grasslands and woodlands
+Ethiopian montane moorlands
+Euxine-Colchic broadleaf forests
+Flint Hills tallgrass prairie
+Ghorat-Hazarajat alpine meadow
+Godavari-Krishna mangroves
+Greater Negros-Panay rain forests
+Guajira-Barranquilla xeric scrub
+Guayaquil flooded grasslands
+Guinean forest-savanna
+Guinean mangroves
+Guinean montane forests
+Guizhou Plateau broadleaf and mixed forests
+Hainan Island monsoon rain forests
+Himalayan subtropical pine forests
+Hispaniolan moist forests
+Huang He Plain mixed forests
+Humid Pampas
+Illyrian deciduous forests
+Indochina mangroves
+Indus River Delta-Arabian Sea mangroves
+Indus Valley desert
+Irrawaddy dry forests
+Irrawaddy freshwater swamp forests
+Italian sclerophyllous and semi-deciduous forests
+Jamaican dry forests
+Jamaican moist forests
+Jian Nan subtropical evergreen forests
+Jos Plateau forest-grassland
+Khathiar-Gir dry deciduous forests
+Kopet Dag semi-desert
+Kopet Dag woodlands and forest steppe
+Kwazulu Natal-Cape coastal forests
+La Costa xeric shrublands
+Lake Chad flooded savanna
+Lara-Falcón dry forests
+Leeward Islands moist forests
+Lower Gangetic Plains moist deciduous forests
+Madagascar spiny thickets
+Magdalena-Urabá moist forests
+Magdalena Valley dry forests
+Malabar Coast moist forests
+Maldives-Lakshadweep-Chagos Archipelago tropical moist forests
+Mandara Plateau woodlands
+Marianas tropical dry forests
+Mascarene forests
+Mediterranean conifer and mixed forests
+Mediterranean High Atlas juniper steppe
+Mediterranean woodlands and forests
+Meghalaya subtropical forests
+Motagua Valley thornscrub
+Mount Cameroon and Bioko montane forests
+Myanmar Coast mangroves
+Myanmar coastal rain forests
+Narmada Valley dry deciduous forests
+Nebraska Sand Hills mixed grasslands
+Nenjiang River grassland
+Niger Delta swamp forests
+Nigerian lowland forests
+Nihonkai evergreen forests
+North Western Ghats moist deciduous forests
+North Western Ghats montane rain forests
+Northeast China Plain deciduous forests
+Northeast US Coastal forests
+Northern Anatolian conifer and deciduous forests
+North Deccan dry deciduous forests
+Northern Khorat Plateau moist deciduous forests
+Aravalli west thorn scrub forests
+Nyanga-Chimanimani Montane forest-grassland
+Orissa semi-evergreen forests
+Palawan rain forests
+Panamanian dry forests
+Pannonian mixed forests
+Paraguaná xeric scrub
+Paraná flooded savanna
+Pernambuco coastal forests
+Pernambuco interior forests
+Po Basin mixed forests
+Puerto Rican moist forests
+Red River freshwater swamp forests
+Rwenzori-Virunga montane moorlands
+Santa Marta páramo
+São Tomé, Príncipe, and Annobón forests
+Serengeti volcanic grasslands
+Sichuan Basin evergreen broadleaf forests
+Sierra de la Laguna dry forests
+Sierra de los Tuxtlas
+Sinú Valley dry forests
+Society Islands tropical moist forests
+South Apennine mixed montane forests
+South China-Vietnam subtropical evergreen forests
+South Deccan Plateau dry deciduous forests
+South Western Ghats moist deciduous forests
+South Western Ghats montane rain forests
+Southeast US mixed woodlands and savannas
+Southeast Iberian shrubs and woodlands
+Southern Africa mangroves
+Southern Anatolian montane conifer and deciduous forests
+Southern Cone Mesopotamian savanna
+Southern Great Lakes forests
+Southern Korea evergreen forests
+Southwest Iberian Mediterranean sclerophyllous and mixed forests
+Sri Lanka lowland rain forests
+Sri Lanka montane rain forests
+Sulaiman Range alpine meadows
+Sulu Archipelago rain forests
+Sumatran freshwater swamp forests
+Sumba deciduous forests
+Sundarbans freshwater swamp forests
+Sundarbans mangroves
+Taiheiyo evergreen forests
+Tehuacán Valley matorral
+Terai-Duar savanna and grasslands
+Texas blackland prairies
+Thar desert
+Tigris-Euphrates alluvial salt marsh
+Tonle Sap-Mekong peat swamp forests
+Tonle Sap freshwater swamp forests
+Tubuai tropical moist forests
+Tyrrhenian-Adriatic sclerophyllous and mixed forests
+Upper Gangetic Plains moist deciduous forests
+Uruguayan savanna
+Veracruz dry forests
+Veracruz montane forests
+West Sudanian savanna
+Western European broadleaf forests
+Western Himalayan broadleaf forests
+Western Java montane rain forests
+Western Java rain forests
+Windward Islands moist forests
+Yap tropical dry forests
+Yellow Sea saline meadow
+Yunnan Plateau subtropical evergreen forests
+Zagros Mountains forest steppe
+Southwest Arabian montane woodlands and grasslands
+Trinidad and Tobago dry forest
+Lesser Antillean dry forests
+
+
+List of Extinct polygons (Integrity <= 10%): 
+Central Polynesian tropical moist forests
+Red River freshwater swamp forests
+Upper Gangetic Plains moist deciduous forests
+
+List of Extinct polygons (Integrity <= 1%): 
+
+
