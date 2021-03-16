@@ -32,8 +32,8 @@ R (v R-4.0.2)
 Human Footprint map (Ventor et al. 2016) [HP4] https://datadryad.org/stash/dataset/doi:10.5061/dryad.052q5 
 Low Impact Areas [LIA] (Jacobson et al. 2019) https://datadryad.org/stash/dataset/doi:10.5061/dryad.z612jm67g
 Global Human Modification Index (Kennedy et al. 2019) https://figshare.com/articles/Global_Human_Modification/7283087 
-CSIRO Habitat Condition (Hoskins et al. 2020)  Data upon request from this paper.
-European Space Agency Climate Change Initiative-Land Cover Project (ESACCI-LC) (Defourney et al. 2017) 
+CSIRO Habitat Condition (unpublished dataset obtained from CSIRO by personal communication; dataset made using methods described in Hoskins et al. 2020).  
+European Space Agency Climate Change Initiative-Land Cover Project 2015 maps (ESACCI-LC) (Defourney et al. 2017) 
      http://www.esa-landcover-cci.org/?q=node/164
 Ecoregions	 (Dinerstein, et al. 2017)
 GAUL    FAO Global Administrative Unit Layer (FAO, 2014). http://www.fao.org/geonetwork/srv/en/metadata.show?id=12691 
@@ -47,10 +47,10 @@ Hoskins, A. J. et al. BILBI: supporting global biodiversity assessment through h
       Environmental Modelling & Software 132, 104806 (2020).
 Defourny, P. et al. CCI-LC PUGv2 Phase II. Land Cover Climate Change Initiative-Product User Guide v2 (2017).
 Dinerstein, E. et al. An ecoregion-based approach to protecting half the terrestrial realm. BioScience 67, 534-545 (2017).
-GAUL FAO Global Administrative Unit Layer (2014)
+FAO Global Administrative Unit Layer (2014)
 
 ##### Provided Data #####
-Below is a description of dataset produced for this manuscript.
+Below is a description of the datasets.
 
 Apex2021_Biome_Intactness.csv - Table of Biodiversity Intactness (Et3) summarized by biome
 Apex2021_FullTable_CER.csv - Table of Biodiversity Intactness (all) and Ecosystem Integrity (10%,20%,30%) by Country-Ecoregions
